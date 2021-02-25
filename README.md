@@ -14,4 +14,5 @@ We can do this by generating points inside square.
 Area ratio is equals to number of points inside circle divided by total number of points.  
 
 Examples:  
-
+![](img1.png)
+![](img2.png)
